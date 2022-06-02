@@ -7,7 +7,7 @@ public class BTimplement {
         node root = createTree();
         System.out.println("Height of Binary Tree....");
         System.out.println(height(root));
-        System.out.println("Size of Binary Tree....");
+        System.out.println("Size  of my Binary Tree....");
         System.out.println(size(root));
         System.out.println("INORDER TRAVERSAL OF BINARY TREE....");
         inorder(root);
